@@ -8,7 +8,7 @@
 RaviK122/RaviK122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-playing vollyball
-Dsa
-Which helps in developing my skill
+playing vollyball\n
+Dsa\n
+Which helps in developing my skill\n
 by my mail
